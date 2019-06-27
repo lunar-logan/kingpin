@@ -1,0 +1,3 @@
+rootProject.name = 'kingpin'
+include 'kingpin-server'
+
